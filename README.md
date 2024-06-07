@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to build a predictive model to assess the likelihood of mortgage delinquency, specifically whether a homeowner will be at least 30 days late on a mortgage payment during the first two years of the mortgage. The goal is to help a mortgage servicing firm differentiate between high-risk and low-risk mortgages to make informed purchasing decisions.
+This project aims to build a predictive model to assess the likelihood of mortgage delinquency, specifically whether a homeowner will be at least 30 days late on a mortgage payment during the first two years of the mortgage using gradient boosting classifier. The goal is to help a mortgage servicing firm differentiate between high-risk and low-risk mortgages to make informed purchasing decisions.
 
 ## Objectives
 
